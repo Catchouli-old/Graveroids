@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity2D", "Gravity2D\Gravity2D\Gravity2D.csproj", "{E5123D2F-C59B-4D34-B103-4C7017F0555E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Gravity2DContent", "Gravity2D\Gravity2DContent\Gravity2DContent.contentproj", "{056BBCCD-1656-4417-86BC-116337766423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5123D2F-C59B-4D34-B103-4C7017F0555E}.Debug|x86.ActiveCfg = Debug|x86
+		{E5123D2F-C59B-4D34-B103-4C7017F0555E}.Debug|x86.Build.0 = Debug|x86
+		{E5123D2F-C59B-4D34-B103-4C7017F0555E}.Release|x86.ActiveCfg = Release|x86
+		{E5123D2F-C59B-4D34-B103-4C7017F0555E}.Release|x86.Build.0 = Release|x86
+		{056BBCCD-1656-4417-86BC-116337766423}.Debug|x86.ActiveCfg = Debug|x86
+		{056BBCCD-1656-4417-86BC-116337766423}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
